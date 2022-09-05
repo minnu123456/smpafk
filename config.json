@@ -1,0 +1,9 @@
+{
+	"ip":"sketchsmp.ms-srv.me",
+	"port": 25565,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Minnu060400$ Minnu060400$",
+	"login-cmd":"/login Minnu060400$"
+}
